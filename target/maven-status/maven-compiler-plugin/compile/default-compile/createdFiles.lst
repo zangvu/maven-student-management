@@ -1,0 +1,16 @@
+com\giangvt\unittest\di\Service.class
+com\giangvt\unittest\email\EmailValidator.class
+com\giangvt\unittest\model\Ring.class
+com\giangvt\oop\Hello.class
+com\giangvt\unittest\model\Race.class
+com\giangvt\unittest\converter\ConverterUtil.class
+com\giangvt\unittest\model\TolkienCharacter.class
+com\giangvt\unittest\file\FileWriter.class
+com\giangvt\unittest\services\DataService.class
+com\giangvt\school\StudentList.class
+com\giangvt\school\App.class
+com\giangvt\unittest\model\Magical.class
+com\giangvt\unittest\model\Alignment.class
+com\giangvt\school\Student.class
+com\giangvt\unittest\model\Movie.class
+com\giangvt\oop\Test.class

@@ -6,7 +6,7 @@ import java.util.List;
 public class StudentList {
     private List<Student> studentList;
 
-    public StudentList(ArrayList<Student> studentList) {
+    public StudentList(List<Student> studentList) {
         this.studentList = studentList;
     }
 

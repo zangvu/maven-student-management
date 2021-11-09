@@ -1,0 +1,11 @@
+com\giangvt\unittest\nested\UsingNestedTests.class
+com\giangvt\unittest\services\DataServiceTest.class
+com\giangvt\unittest\converter\ParameterizedExampleTest$MyClass.class
+com\giangvt\unittest\platform\WindowsTest.class
+com\giangvt\unittest\converter\ParameterizedExampleTest.class
+com\giangvt\unittest\converter\ConverterUtilTest.class
+com\giangvt\unittest\file\FileWriterTests.class
+com\giangvt\school\AppTest.class
+com\giangvt\unittest\di\ServiceTest.class
+com\giangvt\unittest\email\EmailValidatorTest.class
+com\giangvt\unittest\nested\UsingNestedTests$CheckMembers.class
