@@ -10,4 +10,7 @@ public class Database {
     public int getUniqueId() {
         return 42;
     }
+    public void setUniqueId(int uniqueId) {
+
+    }
 }
